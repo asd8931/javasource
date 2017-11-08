@@ -1,2 +1,0 @@
-# javasource
-test
